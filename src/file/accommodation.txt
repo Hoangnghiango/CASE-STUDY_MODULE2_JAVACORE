@@ -1,0 +1,8 @@
+1,1,NHA CUA SOC NAU,BUNGALOW,4,SOC NAU GARDEN WITH CHICK AND ONG ,231,Thach Thi Thanh,Tan Dinh,Quan 3,Ho Chi Minh,0.0
+2,1,Santorini Hotel,HOTEL,5,Beautiful Beach,201,Mac Dinh Chi,Da Kao,Quan 1,Ho Chi Minh,0.0
+3,1,CLIFF RESORT,RESORT,5,Nơi nghỉ dưỡng đạt 5 sao view Panorama,133,Hoa Hiep,Phu My Hung,Quan 7,Ho Chi Minh,0.0
+4,1,TAU DU LICH,CRUISE,5,CRUISE SONG SAI GON,87,Bach Dang,Ben Nghe,Quan 1,HCM,0.0
+5,1,Căn hộ cao cấp chuẩn 5 sao The Sang Đà Nẵng View trực diện hiển Mỹ Khê,APARTMENT,5,Căn hộ cao cấp chuẩn 5 sao The Sang Đà Nẵng View trực diện hiển Mỹ Khê,93,Võ Văn Kiệt ,Quận 3 ,Sơn Trà ,Da Nang ,0.0
+6,2,Bungalow Nha Toi Cocobay,bungalow,5,Day shophouse villa an tuong trong khu ki uc Hoi An,23,Lac Long Quan,Hoa Hai,Ngu Hanh Son,Da nang,0.0
+7,2,Khach san Van Thinh Phat,hotel,4,View Bien My Khe truc dien bien,2,Do Phu,Tu Xuong,Son Tra,Da nang,0.0
+8,2,,,3,f,4,d,d,d,d,0.0

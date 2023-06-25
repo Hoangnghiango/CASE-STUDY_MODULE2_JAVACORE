@@ -1,0 +1,24 @@
+1,1,Deluxe,Phong Deluxe 2 nguoi,2 Giuong doi,500000.0,5,2
+2,1,Family,Phòng gia đình cực lớn,2 Giuong doi cực lớn,900000.0,5,5
+3,1,Executive,Phòng EXECUTIVE Có Giường Cỡ Queen,2 Giuong doi cực lớn,1200000.0,5,5
+4,1,Single,Phòng Giường Đơn Có Ban Công,1 giường đơn,400000.0,5,2
+5,1,Double,Phòng Double Tầng Cao,1 giường đôi hoặc 2 giường đơn,600000.0,5,2
+6,1,Suite,SUITE Sang trong danh cho 2 khach(Có bua sang),Giường đôi cỡ king ,3000000.0,5,2
+7,2,Double,Phong Double view ho boi,2 giường đơn hoặc 1 giường đôi cực lớn,600000.0,5,3
+8,2,Deluxe,Phong Deluxe 2 nguoi,2 giường đơn hoặc 1 giường đôi cực lớn,600000.0,5,3
+9,2,Family,Phòng gia đình cực lớn,2 Giuong doi cực lớn,800000.0,5,5
+10,2,Executive,Phòng EXECUTIVE Có Giường Cỡ Queen,2 Giuong doi cực lớn,1200000.0,5,5
+11,2,Single,Phòng Giường Đơn Thượng Hải ,1 giường đơn,400000.0,5,5
+12,3,Single,Phòng Giường Đơn Có Ban Công,1 giường đơn,400000.0,5,2
+13,3,Deluxe,Phong Deluxe 2 nguoi,2 giường đơn hoặc 1 giường đôi cực lớn,600000.0,5,3
+14,3,Suite,Phong Suite thượng hạng,1 giường đôi queen,2000000.0,5,2
+15,3,Double,Phong Double view ho boi,2 giường đơn hoặc 1 giường đôi cực lớn,600000.0,5,3
+16,4,Suite,SUITE Sang trong danh cho 2 khach(Bao bua sang),2 giường đơn hoặc 1 giường đôi cực lớn,2000000.0,5,2
+17,4,Single,Phòng Giường Đơn Có Ban Công,1 giường đơn,400000.0,5,2
+18,4,Double,Phòng Double Tầng Cao,1 giường đôi hoặc 2 giường đơn,600000.0,5,2
+19,4,Deluxe,Phong Deluxe 2 nguoi,2 giường đơn hoặc 1 giường đôi cực lớn,600000.0,5,3
+20,4,Family,Phòng gia đình cực lớn,2 Giuong doi cực lớn,800000.0,5,5
+21,4,Executive,Phòng EXECUTIVE Có Giường Cỡ Queen,2 Giuong doi cực lớn,1200000.0,5,5
+22,5,Penthouse,Penthouse sang trọng dành cho tối đa 4 khách lưu trú ở tầng 17 - 21,2 phòng ngủ lớn view biển Mỹ Khê,3000000.0,5,4
+23,5,Penthouse,Penthouse sang trọng dành cho tối đa 2 khách lưu trú ở tầng 17 - 21,1 phòng ngủ lớn view biển Mỹ Khê,2500000.0,5,2
+24,5,Suite,SUITE Sang trong danh cho 2 khach(Bao bua sang),1 phòng ngủ lớn view biển Mỹ Khê,2000000.0,5,2
